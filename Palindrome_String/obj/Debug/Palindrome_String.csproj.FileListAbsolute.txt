@@ -1,0 +1,8 @@
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\bin\Debug\Palindrome_String.exe.config
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\bin\Debug\Palindrome_String.exe
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\bin\Debug\Palindrome_String.pdb
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\obj\Debug\Palindrome_String.csproj.AssemblyReference.cache
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\obj\Debug\Palindrome_String.csproj.SuggestedBindingRedirects.cache
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\obj\Debug\Palindrome_String.csproj.CoreCompileInputs.cache
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\obj\Debug\Palindrome_String.exe
+C:\Users\INSIGNIA PC\source\repos\Palindrome_String\Palindrome_String\obj\Debug\Palindrome_String.pdb
